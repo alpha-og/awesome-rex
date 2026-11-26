@@ -165,6 +165,7 @@ A curated list of public tools, plugins, and integrations for Rex, the terminal 
 ## Fun
 
 - [rex-orbit](https://github.com/benhid/rex-orbit) ![Stars](https://img.shields.io/github/stars/benhid/rex-orbit?style=social) - Your Claude Code agents as pixel bots orbiting a dinosaur. ([demo](https://github.com/benhid/rex-orbit/blob/main/assets/demo-light.png))
+- [rex-pet](https://github.com/ziludev/rex-pet) - Desktop cat for macOS that mirrors pane state and answers a blocked agent in one click.
 
 ## Official resources
 
